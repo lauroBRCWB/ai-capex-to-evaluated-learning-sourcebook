@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Three possible role trajectories under AI exposure</title>
+  <desc id="desc">A teaching diagram contrasting low AI exposure, professionalisation, and democratisation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset="1" stop-color="#0b5b66"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity="0.18"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#28b9b1"/></marker>
+  </defs>
+  <rect width="1200" height="650" rx="28" fill="url(#bg)"/>
+  <text x="70" y="68" fill="#ffffff" font-family="DejaVu Sans,Arial" font-size="34" font-weight="700">AI exposure does not create one future for every role</text>
+  <text x="70" y="105" fill="#cfe8ec" font-family="DejaVu Sans,Arial" font-size="20">The decisive question is which tasks AI absorbs—and what expertise the remaining work requires.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="65" y="155" width="330" height="380" rx="20" fill="#ffffff"/>
+    <rect x="435" y="155" width="330" height="380" rx="20" fill="#ffffff"/>
+    <rect x="805" y="155" width="330" height="380" rx="20" fill="#ffffff"/>
+  </g>
+
+  <circle cx="230" cy="215" r="35" fill="#eaf3f8"/><text x="230" y="226" text-anchor="middle" fill="#164e77" font-family="DejaVu Sans,Arial" font-size="28" font-weight="700">1</text>
+  <text x="230" y="278" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">Low exposure</text>
+  <text x="95" y="326" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">Few role tasks map to</text><text x="95" y="354" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">current AI capability.</text>
+  <line x1="105" y1="400" x2="335" y2="400" stroke="#9bb0c3" stroke-width="5"/>
+  <text x="95" y="446" fill="#164e77" font-family="DejaVu Sans,Arial" font-size="18" font-weight="700">Design response</text>
+  <text x="95" y="477" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Improve adjacent tools and</text><text x="95" y="502" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">work systems; do not force fit.</text>
+
+  <circle cx="600" cy="215" r="35" fill="#dff5f3"/><text x="600" y="226" text-anchor="middle" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="28" font-weight="700">2</text>
+  <text x="600" y="278" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">Professionalised</text>
+  <text x="465" y="326" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">AI absorbs more routine work;</text><text x="465" y="354" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">remaining tasks require deeper</text><text x="465" y="382" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">human expertise and judgment.</text>
+  <line x1="475" y1="420" x2="705" y2="420" stroke="#28b9b1" stroke-width="5" marker-end="url(#arrow)"/>
+  <text x="465" y="466" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="18" font-weight="700">Expertise requirement rises</text>
+  <text x="465" y="496" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Protect learning pathways,</text><text x="465" y="521" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">judgment and decision authority.</text>
+
+  <circle cx="970" cy="215" r="35" fill="#fff3d8"/><text x="970" y="226" text-anchor="middle" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="28" font-weight="700">3</text>
+  <text x="970" y="278" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">Democratised</text>
+  <text x="835" y="326" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">AI absorbs more expert work;</text><text x="835" y="354" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">the expertise threshold for</text><text x="835" y="382" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="19">remaining work may fall.</text>
+  <line x1="845" y1="420" x2="1075" y2="420" stroke="#d49a27" stroke-width="5"/>
+  <text x="835" y="466" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="18" font-weight="700">Access expands; control changes</text>
+  <text x="835" y="496" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Redesign mobility, quality</text><text x="835" y="521" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">checks and career progression.</text>
+
+  <text x="70" y="602" fill="#cfe8ec" font-family="DejaVu Sans,Arial" font-size="17">Teaching model adapted from PwC’s 2026 classifications. A modeled role trajectory is not a prediction for every firm or worker.</text>
+</svg>

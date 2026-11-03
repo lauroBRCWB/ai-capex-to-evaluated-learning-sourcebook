@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Agentic pressure on software product categories</title>
+  <desc id="desc">Four software categories ordered by how easily an agent-assembled personal tool can substitute for a commercial product.</desc>
+  <rect width="1200" height="640" rx="28" fill="#0a3d4d"/>
+  <rect x="24" y="24" width="1152" height="592" rx="22" fill="#0f4f5f"/>
+  <text x="48" y="64" fill="#ffffff" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700">Not every software product faces the same agentic pressure</text>
+  <text x="48" y="96" fill="#d7eef1" font-family="DejaVu Sans, Arial, sans-serif" font-size="17">Robert C. Martin’s rant is strongest for personal shells.</text>
+  <text x="48" y="120" fill="#d7eef1" font-family="DejaVu Sans, Arial, sans-serif" font-size="17">Enterprise systems of record and learning products need a different proof.</text>
+  <rect x="48" y="150" width="262" height="390" rx="16" fill="#ffffff"/>
+  <rect x="328" y="150" width="262" height="390" rx="16" fill="#ffffff"/>
+  <rect x="608" y="150" width="262" height="390" rx="16" fill="#ffffff"/>
+  <rect x="888" y="150" width="262" height="390" rx="16" fill="#ffffff"/>
+  <rect x="48" y="150" width="262" height="14" rx="7" fill="#d49a27"/>
+  <rect x="328" y="150" width="262" height="14" rx="7" fill="#c9842a"/>
+  <rect x="608" y="150" width="262" height="14" rx="7" fill="#28b9b1"/>
+  <rect x="888" y="150" width="262" height="14" rx="7" fill="#087f8c"/>
+  <text x="179" y="205" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700">Personal shell</text>
+  <text x="64" y="245" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">One user, private workflow</text>
+  <text x="64" y="270" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Low shared state</text>
+  <text x="64" y="295" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Low compliance burden</text>
+  <text x="64" y="340" fill="#a66b00" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700">Agentic pressure: high</text>
+  <text x="64" y="375" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Example pattern:</text>
+  <text x="64" y="400" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">writing tool, personal</text>
+  <text x="64" y="425" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">assistant, local utility</text>
+  <text x="64" y="470" fill="#164e77" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700">Response</text>
+  <text x="64" y="495" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Build and continuously</text>
+  <text x="64" y="520" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">tune for exact fit</text>
+  <text x="459" y="205" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700">Feature bundle</text>
+  <text x="344" y="245" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Packaged 80% fit</text>
+  <text x="344" y="270" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Many unused features</text>
+  <text x="344" y="295" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Weak differentiation</text>
+  <text x="344" y="340" fill="#a66b00" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700">Agentic pressure: high/med</text>
+  <text x="344" y="375" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Example pattern:</text>
+  <text x="344" y="400" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">generic SaaS utilities,</text>
+  <text x="344" y="425" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">thin productivity suites</text>
+  <text x="344" y="470" fill="#164e77" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700">Response</text>
+  <text x="344" y="495" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Compete on outcome,</text>
+  <text x="344" y="520" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">not feature count</text>
+  <text x="739" y="205" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700">System of record</text>
+  <text x="624" y="245" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Shared truth and identity</text>
+  <text x="624" y="270" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Permissions and audit</text>
+  <text x="624" y="295" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Multi-party integrity</text>
+  <text x="624" y="340" fill="#087f8c" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700">Agentic pressure: med/low</text>
+  <text x="624" y="375" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Example pattern:</text>
+  <text x="624" y="400" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">ERP, MES, CRM core,</text>
+  <text x="624" y="425" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">planning masters</text>
+  <text x="624" y="470" fill="#164e77" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700">Response</text>
+  <text x="624" y="495" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Defend integrity,</text>
+  <text x="624" y="520" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">expose agent interfaces</text>
+  <text x="1019" y="205" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700">Learning product</text>
+  <text x="904" y="245" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Accepted outcomes</text>
+  <text x="904" y="270" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Evaluation and correction</text>
+  <text x="904" y="295" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Reuse across the network</text>
+  <text x="904" y="340" fill="#087f8c" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700">Agentic pressure: redesign</text>
+  <text x="904" y="375" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Example pattern:</text>
+  <text x="904" y="400" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">closed-loop planning,</text>
+  <text x="904" y="425" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">quality and recovery systems</text>
+  <text x="904" y="470" fill="#164e77" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700">Response</text>
+  <text x="904" y="495" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Sell verified outcomes</text>
+  <text x="904" y="520" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">and reusable learning</text>
+  <text x="48" y="575" fill="#d7eef1" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Teaching synthesis inspired by Martin’s software-products rant and this sourcebook’s closed-loop thesis.</text>
+  <text x="48" y="600" fill="#b7dbe0" font-family="DejaVu Sans, Arial, sans-serif" font-size="14">A personal anecdote is not a market forecast. Source: Robert C. Martin, X video, 30 September 2026. Category model is report synthesis.</text>
+</svg>

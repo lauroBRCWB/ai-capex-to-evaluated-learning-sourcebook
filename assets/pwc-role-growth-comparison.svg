@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Professionalised and democratised roles show different advertised job and salary growth</title>
+  <desc id="desc">Grouped bar chart: job postings 39 percent versus 17 percent from 2018; salaries 37 percent versus 26 percent from 2021.</desc>
+  <rect width="1200" height="720" rx="28" fill="#f7fafc"/>
+  <text x="70" y="64" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="33" font-weight="700">Different role trajectories, different labor-demand signals</text>
+  <text x="70" y="103" fill="#596579" font-family="DejaVu Sans,Arial" font-size="19">Cumulative growth in PwC’s classified roles—not a causal estimate of AI impact.</text>
+  <rect x="770" y="125" width="22" height="22" rx="4" fill="#087f8c"/><text x="806" y="143" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Professionalised</text>
+  <rect x="970" y="125" width="22" height="22" rx="4" fill="#d49a27"/><text x="1006" y="143" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Democratised</text>
+  <g stroke="#d8e0e8" stroke-width="1">
+    <line x1="150" y1="550" x2="1080" y2="550"/><line x1="150" y1="460" x2="1080" y2="460"/><line x1="150" y1="370" x2="1080" y2="370"/><line x1="150" y1="280" x2="1080" y2="280"/><line x1="150" y1="190" x2="1080" y2="190"/>
+  </g>
+  <g fill="#667085" font-family="DejaVu Sans,Arial" font-size="16" text-anchor="end">
+    <text x="135" y="556">0%</text><text x="135" y="466">10%</text><text x="135" y="376">20%</text><text x="135" y="286">30%</text><text x="135" y="196">40%</text>
+  </g>
+  <rect x="270" y="199" width="120" height="351" rx="8" fill="#087f8c"/><rect x="420" y="397" width="120" height="153" rx="8" fill="#d49a27"/>
+  <text x="330" y="182" text-anchor="middle" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="27" font-weight="700">39%</text><text x="480" y="380" text-anchor="middle" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="27" font-weight="700">17%</text>
+  <rect x="705" y="217" width="120" height="333" rx="8" fill="#087f8c"/><rect x="855" y="316" width="120" height="234" rx="8" fill="#d49a27"/>
+  <text x="765" y="200" text-anchor="middle" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="27" font-weight="700">37%</text><text x="915" y="299" text-anchor="middle" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="27" font-weight="700">26%</text>
+  <text x="405" y="594" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="21" font-weight="700">Advertised job postings</text><text x="405" y="622" text-anchor="middle" fill="#667085" font-family="DejaVu Sans,Arial" font-size="16">growth from 2018 baseline</text>
+  <text x="840" y="594" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="21" font-weight="700">Advertised salaries</text><text x="840" y="622" text-anchor="middle" fill="#667085" font-family="DejaVu Sans,Arial" font-size="16">growth from 2021 baseline</text>
+  <text x="70" y="680" fill="#667085" font-family="DejaVu Sans,Arial" font-size="15">Source: PwC analysis of Lightcast data; six countries with robust 2012–2025 coverage. Classifications are modeled and other factors may contribute.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Customer-agent decision loop with an external authority layer</title>
+  <desc id="desc">The customer delegates intent to an agent. The agent compares suppliers. An external authority layer controls data, actions and evidence. Outcomes return to the customer and the next decision.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#d49a27"/>
+    </marker>
+    <marker id="arrowTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#28b9b1"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="#0a3d4d"/>
+  <rect x="24" y="24" width="1152" height="672" rx="22" fill="#0f4f5f"/>
+  <text x="48" y="66" fill="#ffffff" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700">The transaction and the customer decision can separate</text>
+  <text x="48" y="100" fill="#d7eef1" font-family="DejaVu Sans, Arial, sans-serif" font-size="17">The agent can control discovery and choice while a platform still processes the transaction.</text>
+
+  <path d="M300 230 H450" stroke="#d49a27" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M750 230 H900" stroke="#d49a27" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M1000 340 C1000 530 200 530 200 340" stroke="#28b9b1" stroke-width="5" fill="none" marker-end="url(#arrowTeal)"/>
+  <path d="M600 380 V455" stroke="#fb7185" stroke-width="4" stroke-dasharray="9 7" fill="none" marker-end="url(#arrow)"/>
+  <path d="M600 455 V380" stroke="#fb7185" stroke-width="4" stroke-dasharray="9 7" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="70" y="145" width="260" height="190" rx="18" fill="#ffffff"/>
+  <rect x="70" y="145" width="260" height="14" rx="7" fill="#d49a27"/>
+  <text x="200" y="200" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700">Customer</text>
+  <text x="95" y="240" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Purpose and constraints</text>
+  <text x="95" y="270" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Identity and authority</text>
+  <text x="95" y="300" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Right to contest</text>
+
+  <rect x="450" y="145" width="300" height="235" rx="18" fill="#ffffff"/>
+  <rect x="450" y="145" width="300" height="14" rx="7" fill="#28b9b1"/>
+  <text x="600" y="200" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700">Customer agent</text>
+  <text x="480" y="240" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Discovers and compares</text>
+  <text x="480" y="270" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Negotiates and recommends</text>
+  <text x="480" y="300" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Acts within mandate</text>
+  <text x="480" y="340" fill="#087f8c" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700">Controls the decision loop</text>
+
+  <rect x="870" y="145" width="260" height="190" rx="18" fill="#ffffff"/>
+  <rect x="870" y="145" width="260" height="14" rx="7" fill="#d49a27"/>
+  <text x="1000" y="200" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700">Market systems</text>
+  <text x="895" y="240" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Suppliers and platforms</text>
+  <text x="895" y="270" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Price, terms and supply</text>
+  <text x="895" y="300" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Transaction and fulfilment</text>
+
+  <rect x="260" y="455" width="680" height="150" rx="18" fill="#fff7e7" stroke="#fb7185" stroke-width="3"/>
+  <text x="600" y="495" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700">External authority and evidence layer</text>
+  <text x="300" y="535" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Identity · least privilege · data rules · action limits</text>
+  <text x="300" y="565" fill="#42526a" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">conflict checks · approvals · tamper-resistant logs · containment</text>
+  <text x="300" y="590" fill="#8b1e3f" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700">The model that proposes an action must not control final authority or evidence.</text>
+
+  <text x="200" y="405" text-anchor="middle" fill="#d7eef1" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Intent and mandate</text>
+  <text x="1000" y="405" text-anchor="middle" fill="#d7eef1" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Observed outcome</text>
+  <text x="48" y="660" fill="#d7eef1" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Synthesis of HBR customer-representation analysis, Google contextual-policy research, and Nadella’s external-authority principle.</text>
+  <text x="48" y="684" fill="#b7dbe0" font-family="DejaVu Sans, Arial, sans-serif" font-size="14">These sources provide strategic and architecture perspectives. They do not prove the effectiveness of one implementation.</text>
+</svg>

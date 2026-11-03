@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Firm growth by sector AI exposure</title>
+  <desc id="desc">Grouped bars compare least-exposed and most-exposed quartiles in turnover per employee, headcount, and wages since 2018.</desc>
+  <rect width="1200" height="720" rx="28" fill="#f7fafc"/>
+  <text x="70" y="64" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="33" font-weight="700">Firm growth is higher in the more-exposed quartile</text>
+  <text x="70" y="103" fill="#596579" font-family="DejaVu Sans,Arial" font-size="19">Observational ORBIS sample; sector exposure is not measured firm AI adoption.</text>
+  <rect x="760" y="123" width="22" height="22" rx="4" fill="#9bb0c3"/><text x="796" y="141" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Least exposed quartile</text>
+  <rect x="980" y="123" width="22" height="22" rx="4" fill="#087f8c"/><text x="1016" y="141" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Most exposed</text>
+  <g stroke="#d8e0e8" stroke-width="1">
+    <line x1="140" y1="550" x2="1100" y2="550"/><line x1="140" y1="490" x2="1100" y2="490"/><line x1="140" y1="430" x2="1100" y2="430"/><line x1="140" y1="370" x2="1100" y2="370"/><line x1="140" y1="310" x2="1100" y2="310"/><line x1="140" y1="250" x2="1100" y2="250"/><line x1="140" y1="190" x2="1100" y2="190"/>
+  </g>
+  <g fill="#667085" font-family="DejaVu Sans,Arial" font-size="15" text-anchor="end"><text x="125" y="556">0%</text><text x="125" y="496">10%</text><text x="125" y="436">20%</text><text x="125" y="376">30%</text><text x="125" y="316">40%</text><text x="125" y="256">50%</text><text x="125" y="196">60%</text></g>
+  <rect x="220" y="406" width="95" height="144" rx="7" fill="#9bb0c3"/><rect x="330" y="349" width="95" height="201" rx="7" fill="#087f8c"/>
+  <text x="267" y="389" text-anchor="middle" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="23" font-weight="700">24.0%</text><text x="377" y="332" text-anchor="middle" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="23" font-weight="700">33.5%</text>
+  <rect x="540" y="336" width="95" height="214" rx="7" fill="#9bb0c3"/><rect x="650" y="237" width="95" height="313" rx="7" fill="#087f8c"/>
+  <text x="587" y="319" text-anchor="middle" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="23" font-weight="700">35.7%</text><text x="697" y="220" text-anchor="middle" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="23" font-weight="700">52.2%</text>
+  <rect x="860" y="450" width="95" height="100" rx="7" fill="#9bb0c3"/><rect x="970" y="404" width="95" height="146" rx="7" fill="#087f8c"/>
+  <text x="907" y="433" text-anchor="middle" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="23" font-weight="700">16.6%</text><text x="1017" y="387" text-anchor="middle" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="23" font-weight="700">24.4%</text>
+  <text x="322" y="594" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="20" font-weight="700">Turnover per employee</text><text x="642" y="594" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="20" font-weight="700">Headcount</text><text x="962" y="594" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="20" font-weight="700">Wages</text>
+  <text x="600" y="628" text-anchor="middle" fill="#667085" font-family="DejaVu Sans,Arial" font-size="16">Average firm growth from 2018 baseline; 2024 substitutes where 2025 is missing.</text>
+  <text x="70" y="663" fill="#667085" font-family="DejaVu Sans,Arial" font-size="14.5">Source: PwC analysis of ORBIS. Larger formal firms with ≥US$50m turnover and surviving observations.</text>
+  <text x="70" y="687" fill="#667085" font-family="DejaVu Sans,Arial" font-size="14.5">Turnover per employee is a proxy, not total-factor productivity; differences are not causal estimates.</text>
+</svg>

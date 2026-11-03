@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">From AI optimism to enterprise proof</title>
+  <desc id="desc">A teaching diagram showing WEF chief economists' expectations for AI acceleration, infrastructure tensions, and the enterprise proof required before investment becomes durable value.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset="1" stop-color="#0b5b66"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity="0.20"/></filter>
+  </defs>
+  <rect width="1200" height="620" rx="28" fill="url(#bg)"/>
+  <text x="70" y="58" fill="#ffffff" font-family="DejaVu Sans,Arial" font-size="34" font-weight="700">From AI optimism to enterprise proof</text>
+  <text x="70" y="92" fill="#cfe8ec" font-family="DejaVu Sans,Arial" font-size="19">Macro expectations can justify preparation—but not skip the operating and investment proof chain.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="60" y="125" width="330" height="390" rx="20" fill="#ffffff"/>
+    <rect x="435" y="125" width="330" height="390" rx="20" fill="#ffffff"/>
+    <rect x="810" y="125" width="330" height="390" rx="20" fill="#ffffff"/>
+  </g>
+
+  <circle cx="225" cy="177" r="32" fill="#dff5f3"/>
+  <text x="225" y="188" text-anchor="middle" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="26" font-weight="700">1</text>
+  <text x="225" y="235" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700">Expected acceleration</text>
+  <text x="92" y="292" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">97%</text>
+  <text x="168" y="292" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="16">expect adoption to rise</text>
+  <text x="92" y="337" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">69%</text>
+  <text x="168" y="337" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="16">expect meaningful gains</text>
+  <text x="92" y="382" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">78%</text>
+  <text x="168" y="382" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="16">expect data-centre growth</text>
+  <line x1="95" y1="416" x2="350" y2="416" stroke="#c8d6df" stroke-width="3"/>
+  <text x="92" y="449" fill="#164e77" font-family="DejaVu Sans,Arial" font-size="17" font-weight="700">Signal, not proof</text>
+  <text x="92" y="476" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="15">Expectations do not measure</text>
+  <text x="92" y="499" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="15">realized adoption or returns.</text>
+
+  <circle cx="600" cy="177" r="32" fill="#fff3d8"/>
+  <text x="600" y="188" text-anchor="middle" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="26" font-weight="700">2</text>
+  <text x="600" y="226" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="21" font-weight="700">Physical and social</text>
+  <text x="600" y="251" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="21" font-weight="700">tension</text>
+  <text x="468" y="292" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">79%</text>
+  <text x="544" y="292" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="16">expect local pushback</text>
+  <text x="468" y="337" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">78%</text>
+  <text x="544" y="337" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="16">expect higher power prices</text>
+  <text x="468" y="382" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="25" font-weight="700">61%</text>
+  <text x="544" y="382" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="16">do not expect equal jobs</text>
+  <line x1="470" y1="416" x2="725" y2="416" stroke="#c8d6df" stroke-width="3"/>
+  <text x="468" y="449" fill="#a66b00" font-family="DejaVu Sans,Arial" font-size="17" font-weight="700">Permission stack</text>
+  <text x="468" y="476" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="15">Grid + water + permits +</text>
+  <text x="468" y="499" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="15">community + financing.</text>
+
+  <circle cx="975" cy="177" r="32" fill="#eaf3f8"/>
+  <text x="975" y="188" text-anchor="middle" fill="#164e77" font-family="DejaVu Sans,Arial" font-size="26" font-weight="700">3</text>
+  <text x="975" y="235" text-anchor="middle" fill="#0b1f3a" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700">Enterprise proof</text>
+  <text x="842" y="287" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Workflow baseline</text>
+  <text x="842" y="320" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Accepted verified outcome</text>
+  <text x="842" y="353" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Full cost and counterfactual</text>
+  <text x="842" y="386" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="17">Value survives at scale</text>
+  <line x1="845" y1="416" x2="1100" y2="416" stroke="#28b9b1" stroke-width="5"/>
+  <text x="842" y="449" fill="#087f8c" font-family="DejaVu Sans,Arial" font-size="17" font-weight="700">Durable value only if</text>
+  <text x="842" y="476" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="15">evaluated learning improves</text>
+  <text x="842" y="499" fill="#42526a" font-family="DejaVu Sans,Arial" font-size="15">the next decision.</text>
+
+  <text x="70" y="560" fill="#cfe8ec" font-family="DejaVu Sans,Arial" font-size="16">Source: WEF Chief Economists Survey, August 2026. Shares are expert expectations, not realized or causal findings.</text>
+  <text x="70" y="588" fill="#9fcbd1" font-family="DejaVu Sans,Arial" font-size="14">“Meaningful gains” refers to AI productivity expectations; “equal jobs” refers to significant global job creation from data-centre investment.</text>
+</svg>
